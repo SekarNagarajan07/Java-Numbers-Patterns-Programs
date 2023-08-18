@@ -8,5 +8,5 @@ class Program15 {
         }
         System.out.println(count);
     }
-    
+
 }
